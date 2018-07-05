@@ -10,6 +10,7 @@ of a team to achieve specific goals and meet specific success criteria at the sp
   - [Integration](#integration)
   - [Stakeholder](#stakeholder)
   - [Scope](#scope)
+  - [Quality](#quality)
 - [Resources](#resources)
 
 
@@ -123,6 +124,30 @@ Conflict resolution:
   - **Smoothing** (accommodating) - you seek to remind the parties in conflict  of their similarities.
   - **Forcing** (competing) - you simply tell people how it will be.
   - **Avoiding** - good when you are outranked.
+  
+### Quality
+
+**Prevention Over Inspection** -it is better to stop a defect from occurring. If you cannot do that, it is better to find the defect 
+before your customer does and of course if your customer finds a defect, your quality process might not 
+be working! 
+
+**Plan Quality Management** - the process of identifying quality requirements and/or standards and
+documenting how the project will demonstrate compliance. It should result in quality metrics, quality
+checklists, process improvement plan.
+
+**Product Quality** focuses on the goods and services. 
+**Project Quality** focuses on the project management processes.
+
+**Cost of Quality**:
+  - **Cost of Conformance** - money spent during the project to avoid failures
+    - Prevention Costs (Training, Documenting, Equipment, Time to do it right)
+    - Inspection Costs (Testing, Inspections)
+  - **Cost of Nonconformance** - moeny spent during and after the project because of failures
+    - Internal Failure Cost (Bug fixing)
+    - External Failure Cost (Liabilities, Warranty work, Lost business)
+    
+PMBOK Quality Management Lesson
+https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson05/story_html5.html
 
 ## Resources
 
