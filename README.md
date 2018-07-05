@@ -1,11 +1,14 @@
 # Project Management Cheat Sheet
 
+**Project management** is the practice of initiating, planning, executing, controlling, and closing the work 
+of a team to achieve specific goals and meet specific success criteria at the specified time.
+
 ### Table of Contents
 
 - [Introduction](#Introduction)
 - [Knowledge Areas](#knowledge-areas)
   - [Integration](#integration)
-  - [Stakeholders](#stakeholders)
+  - [Stakeholder](#stakeholder)
   - [Scope](#scope)
 - [Resources](#resources)
 
@@ -64,7 +67,7 @@ https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson01/story_html5.html
 PMBOK Project Integration and Project Scope Management Lesson 
 https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson02/story_html5.html
 
-### Stakeholders
+### Stakeholder
 
 **Stakeholder** - a person, group or organization who may affect, be affected by, or perceive itself to be 
 affected by a decision, activity, or outcome of a project. Examples of stakeholders:
