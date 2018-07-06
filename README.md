@@ -10,6 +10,7 @@ of a team to achieve specific goals and meet specific success criteria at the sp
   - [Integration](#integration)
   - [Stakeholder](#stakeholder)
   - [Scope](#scope)
+  - [Cost](#cost)
   - [Quality](#quality)
 - [Resources](#resources)
 
@@ -125,6 +126,51 @@ Conflict resolution:
   - **Forcing** (competing) - you simply tell people how it will be.
   - **Avoiding** - good when you are outranked.
   
+### Cost
+
+**Project Cost Management** includes the processes involved in planning, estimating, budgeting
+and controlling costs so that the project can be completed within the approved budget.
+
+Estimating Methodologies:
+  - Top-Down Estimating
+    - **Analogous Cost Estimating** - accomplished by analysing activities on past projects and using them as a basis
+    for estimating costs. It's less costly, but less accurate.
+    - **Parametric Estimating** - uses mathematical model to estimate costs (machine learning)
+  - Bottom-Up Estimating - involves estimating the cost of individual tasks with the lowest level of detail.
+  
+Comparison of Cost Estimating Approaches:
+
+![Cost Estimating Approaches](./assets/Cost_Estimating_Approaches.png)
+
+**Three-point estimation** - three figures are produced initially for every distribution that is required, 
+based on prior experience or best-guesses:
+  - a = the best-case estimate
+  - m = the most likely estimate
+  - b = the worst-case estimate
+  
+These values are used to calculate mean value for the estimate (E) and a standard deviation (SD), where:
+
+```
+E = (a + 4m + b) / 6
+SD = (b − a) / 6
+```
+
+In Project Evaluation and Review Techniques (PERT) the three values are used to fit a PERT distribution 
+for Monte Carlo simulations.
+
+**Padding the Estimates** - the practice of overstating the estimates by team members to "hedge their bets".
+This practice should be avoided, and a defined risk management process should be performed instead.
+
+The **Cost Baseline Budget** is the approved and time-phased version of the budget, excluding management
+reserves. 
+
+The **Project Budget** is equal to the cost baseline budget plus management reserves.
+
+![Project Bidget Diagram](./assets/Project_Budget_Diagram.png)
+
+PMBOK Cost Management Lesson
+https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson04/story_html5.html
+
 ### Quality
 
 **Prevention Over Inspection** -it is better to stop a defect from occurring. If you cannot do that, it is better to find the defect 
