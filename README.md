@@ -13,6 +13,7 @@ of a team to achieve specific goals and meet specific success criteria at the sp
   - [Cost](#cost)
   - [Quality](#quality)
   - [Communications](#communications)
+  - [Risk](#risk)
 - [Resources](#resources)
 
 
@@ -234,6 +235,62 @@ Status Report Template:
 
 PMBOK Communications Management Lesson
 https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson07/story_html5.html
+
+### Risk
+
+**Project Risk Management** is a systematic practice that identifies, analyses, and responds to project risks. The
+primary goal of project risk management is to minimise the likelihood and impact of negative events (threats).
+
+Planning for risk begins with Murphy's Law - **if anything can go wrong, it will** - and continues with the Boy Scout 
+motto: **be prepared**.
+
+The elements of the risk management plan include:
+  - Methodology - what approaches, tools and data sources will be used to manage risk on the project.
+  - Roles and Responsibilities - who is on the risk management team? 
+  - Budgeting - will funds be needed for **contingency and reserve funds**?
+  - Timing - when and how often will risk management activities be performed, what part of it should go into the schedule?
+  - Risk Categories - these are groupings of potential risks, meant to help you identify where risks may arise. 
+  - Definitions of Probability and Impact - everyone should have the same understanding of e.g. what low probability for
+  a risk means.
+  
+The key to project risk management is the identification of events that, if they happen, will affect the scope, schedule,
+cost or quality objectives of the project. A simple **risk event statement** is as follows:
+
+`If event "X" occurs, the project objective "Y" will be affected`
+
+Information gathering techniques for risk identification:
+  - Brainstorming
+  - Interviews
+  - **Delphi Method** - you ask for input from several experts/specialists - and you keep their identities anonymous. 
+  A coordinator processes them and sends them to all the members for review. This creates an enriching feedback where the
+  opinions of all the participants carry the same weight. 
+  - Root cause analysis - identify a problem, discover the underlying causes that lead to it, and then develop a 
+  preventive action.
+  - Experts with relevant experience - such experts should be identified by the project manager and invited to consider
+  all aspects of the project and suggest possible risks based on their previous experience and areas of expertise.
+  
+Risk Register Example:
+
+![Risk Register](./assets/Risk_Register.png)
+
+**Qualitative Risk Analysis** assesses the priority of identified risks using their **likelihood** of occurring and their 
+corresponding **impact** on project objectives.    
+
+![Risk Matrix](./assets/Risk_Matrix.png)
+
+**Quantitative Risk Analysis** estimates, as objectively as possible, the numerical probabilities associated with 
+the likelihood and numerical values associated with the impact of identified risks.
+
+**Risk Response Strategies**:
+  - **Avoid** - change scope, schedule or budget to avoid the risk
+  - **Transfer** - shift the negative impact of a threat, along with ownership for the response, to a third party.
+  E.g. insurance, performance bonds, warranties, guarantees, contracts.
+  - **Mitigate** - reduce the probability and/or impact of an adverse risk event to an acceptable level. E.g. conducting 
+  more tests, choosing a more stable supplier 
+  - **Accept** - a contingency plan can be developed and an appropriate contingency reserve established. 
+
+PMBOK Communications Management Lesson
+https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson08/story_html5.html
 
 ## Resources
 
