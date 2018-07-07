@@ -12,6 +12,7 @@ of a team to achieve specific goals and meet specific success criteria at the sp
   - [Scope](#scope)
   - [Cost](#cost)
   - [Quality](#quality)
+  - [Communications](#communications)
 - [Resources](#resources)
 
 
@@ -194,6 +195,45 @@ checklists, process improvement plan.
     
 PMBOK Quality Management Lesson
 https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson05/story_html5.html
+
+### Communications
+
+**Project Communications Management** includes the processes required to ensure timely and appropriate generation and 
+distribution of project information. 
+
+Effective project communications management **creates a bond between stakeholders**
+based on a shared understanding of the project and the ongoing sharing of information needed for its success. Your 
+**stakeholders will better understand** what is expected from them. **They will have more confidence** in you as a leader. 
+
+The basic communications plan includes:
+
+![Communications Plan](./assets/Communications_Plan.png)
+
+**Communication Skills**
+  - Written and Oral
+  - Listening and Speaking
+  - Formal and Informal
+  - Vertical and Horizontal
+  - Internal and External
+  
+Communication Channels:
+
+![Communication Channels](./assets/Communication_Channels.png)
+
+**Information Distribution Methods**:
+  - Stand-up meetings
+  - One-on-one meetings
+  - E-mail
+  - IM
+  - Reports, Letters
+  - Graphics
+
+Status Report Template:
+
+![Status Report Template](./assets/Status_Report_Template.png)
+
+PMBOK Communications Management Lesson
+https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson07/story_html5.html
 
 ## Resources
 
