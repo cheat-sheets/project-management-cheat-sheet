@@ -70,8 +70,8 @@ https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson01/story_html5.html
 
 ### Integration
 
-PMBOK Project Integration and Project Scope Management Lesson 
-https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson02/story_html5.html
+PMBOK Project Integration Management Lesson 
+https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson11/story_html5.html
 
 ### Scope
 
@@ -98,7 +98,7 @@ use organizational resources to meet project objectives.
 **WBS (Work Breakdown Structure)** - depicts the work that is necessary to meet project objectives. 
 It is the foundational planning tool for the project. Based on the scope and helps to define the scope.
 
-PMBOK Project Integration and Project Scope Management Lesson 
+PMBOK Project Scope Management Lesson 
 https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson02/story_html5.html
   
 ### Cost
