@@ -8,12 +8,14 @@ of a team to achieve specific goals and meet specific success criteria at the sp
 - [Introduction](#Introduction)
 - [Knowledge Areas](#knowledge-areas)
   - [Integration](#integration)
-  - [Stakeholder](#stakeholder)
   - [Scope](#scope)
   - [Cost](#cost)
   - [Quality](#quality)
+  - [HR](#hr)
   - [Communications](#communications)
   - [Risk](#risk)
+  - [Procurement](#procurement)
+  - [Stakeholder](#stakeholder)
 - [Resources](#resources)
 
 
@@ -71,24 +73,6 @@ https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson01/story_html5.html
 PMBOK Project Integration and Project Scope Management Lesson 
 https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson02/story_html5.html
 
-### Stakeholder
-
-**Stakeholder** - a person, group or organization who may affect, be affected by, or perceive itself to be 
-affected by a decision, activity, or outcome of a project. Examples of stakeholders:
-  - Team members
-  - Customers
-  - Sponsors
-  - Vendors
-  
-Categorization of stakeholders:
-  
-|                  | **Low Interest**    | **High Interest** |
-| ---              | ---                 | ---               |
-| **Low Power**    | Monitor             | Keep Informed     |
-| **High Power**   | Keep Satisfied      | Manage Closely    |
-
-PMBOK Stakeholder Management Lesson https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson10/story_html5.html
-
 ### Scope
 
 **Project Charter** - the document that formally announces the project and grants the project manager the authority to 
@@ -116,17 +100,6 @@ It is the foundational planning tool for the project. Based on the scope and hel
 
 PMBOK Project Integration and Project Scope Management Lesson 
 https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson02/story_html5.html
-
-#### Authority vs Influence
-
-Conflict resolution:
-  - **Confronting** (problem solving or collaboration). Finds a solution that is best for the project, 
-  but not necessarily best for one party or another.
-  - **Compromising** - take ideas from each party so that the solution is a little bit of each. 
-  May not necessarily result in the best approach.
-  - **Smoothing** (accommodating) - you seek to remind the parties in conflict  of their similarities.
-  - **Forcing** (competing) - you simply tell people how it will be.
-  - **Avoiding** - good when you are outranked.
   
 ### Cost
 
@@ -197,10 +170,58 @@ checklists, process improvement plan.
 PMBOK Quality Management Lesson
 https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson05/story_html5.html
 
+### HR
+
+**Project Human Resource Management** includes the processes that organize, manage and lead the project team.
+
+Skills related to human resource management:
+  - Leading, communicating, negotiating, influencing, political astuteness and other key general management skills
+  - Delegating, motivating, coaching, mentoring, and other subjects related to dealing with individuals
+  - Team building, dealing with conflict, and other subjects related to dealing with groups
+  - Performance appraisal, recruitment, retention, health and safety regulations, and other subjects related to 
+  administering the human resource function.
+  
+A **Responsibility Assignment Matrix** (RAM) uses a matrix format to illustrate the connections between project
+scope and the project team.
+
+![Responsibility Assignment Matrix](./assets/Responsibility_Assignment_Matrix.png)
+
+**The Tuckman Model**. The **forming–storming–norming–performing** model of group development was first proposed by 
+Bruce Tuckman in 1965, who said that these phases are all necessary and inevitable in order for the team to grow, 
+face up to challenges, tackle problems, find solutions, plan work, and deliver results.
+  - **Forming** - is constituted of orientation, testing and dependence
+  - **Storming** - characterized by conflict and polarization around interpersonal issues
+  - **Norming** - in this stage in-group feeling and cohesiveness develop, new standards evolve, and new roles are 
+  adopted. In the task realm, intimate, personal opinions are expressed. 
+  - **Performing** - interpersonal structure becomes the tool of task activities. Roles become flexible and functional,
+  and group energy is channeled into the task.
+  
+**Tools and Techniques to Manage Project Team**
+  - **Observation and Conversation** - used to stay connected with the progress and attitudes of project team members
+  (management-by-walking-around)
+  - **Project Performance Appraisals** - clarification of roles and responsibilities, individual feedback & goal setting
+  - **Conflict Management** - the foundation of conflict include shortage of resources, scheduling priorities, and
+  interpersonal work approaches.
+  - **Interpersonal Skills** - leadership, influence, and effective decision-making. 
+
+Conflict resolution:
+  - **Confronting** (problem solving or collaboration). Finds a solution that is best for the project, 
+  but not necessarily best for one party or another.
+  - **Compromising** - take ideas from each party so that the solution is a little bit of each. 
+  May not necessarily result in the best approach.
+  - **Smoothing** (accommodating) - you seek to remind the parties in conflict  of their similarities.
+  - **Forcing** (competing) - you simply tell people how it will be.
+  - **Avoiding** - good when you are outranked.
+
+PMBOK HR Management Lesson
+https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson06/story_html5.html
+
 ### Communications
 
 **Project Communications Management** includes the processes required to ensure timely and appropriate generation and 
-distribution of project information. 
+distribution of project information.
+
+A project manager spends **80-90%** of his time communicating. 
 
 Effective project communications management **creates a bond between stakeholders**
 based on a shared understanding of the project and the ongoing sharing of information needed for its success. Your 
@@ -289,8 +310,31 @@ the likelihood and numerical values associated with the impact of identified ris
   more tests, choosing a more stable supplier 
   - **Accept** - a contingency plan can be developed and an appropriate contingency reserve established. 
 
-PMBOK Communications Management Lesson
+PMBOK Risk Management Lesson
 https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson08/story_html5.html
+
+### Procurement
+
+PMBOK Procurement Management Lesson
+https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson09/story_html5.html
+
+### Stakeholder
+
+**Stakeholder** - a person, group or organization who may affect, be affected by, or perceive itself to be 
+affected by a decision, activity, or outcome of a project. Examples of stakeholders:
+  - Team members
+  - Customers
+  - Sponsors
+  - Vendors
+  
+Categorization of stakeholders:
+  
+|                  | **Low Interest**    | **High Interest** |
+| ---              | ---                 | ---               |
+| **Low Power**    | Monitor             | Keep Informed     |
+| **High Power**   | Keep Satisfied      | Manage Closely    |
+
+PMBOK Stakeholder Management Lesson https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson10/story_html5.html
 
 ## Resources
 
