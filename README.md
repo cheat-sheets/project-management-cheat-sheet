@@ -9,6 +9,7 @@ of a team to achieve specific goals and meet specific success criteria at the sp
 - [Knowledge Areas](#knowledge-areas)
   - [Integration](#integration)
   - [Scope](#scope)
+  - [Time](#time)
   - [Cost](#cost)
   - [Quality](#quality)
   - [HR](#hr)
@@ -101,6 +102,26 @@ It is the foundational planning tool for the project. Based on the scope and hel
 PMBOK Project Scope Management Lesson 
 https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson02/story_html5.html
   
+### Time
+
+Task Dependencies:
+  - Mandatory
+  - Discretionary
+  - External
+  
+  - Finish to Start
+  - Finish to Finish
+  - Start to Start
+  - Start to Finish
+  
+**Critical Path Method (CPA)** is an algorithm for scheduling a set of project activities:
+
+![Critical Path Method](./assets/Critical_Path_Method.png)
+  
+
+PMBOK Time Management Lesson
+https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson03/story_html5.html
+
 ### Cost
 
 **Project Cost Management** includes the processes involved in planning, estimating, budgeting
